@@ -110,13 +110,9 @@ ge: &DEFAULT_GE
   search_algolia_no_results  : "🐶 ვერ ვიპოვე"
   results_found              : "🐶 მსგავსი არაფერია, კარგად გადაამოწმე."
   back_to_top                : "მაღლა"
-en-US:
+ge-GE:
   <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
+ka-KA:
   <<: *DEFAULT_EN
 
 
