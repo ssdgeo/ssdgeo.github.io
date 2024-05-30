@@ -112,11 +112,12 @@ author:
   avatar           : "/uploads/avatar.webp" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cypherpunk, Hardware Hacker, SYS&NETadmin, Code Lover."
   location         : "127.0.0.1 /30"
+  facebook         : "CryptoBazari"
   email            :
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "CryptoBazari"
+      # url: "CryptoBazari"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
