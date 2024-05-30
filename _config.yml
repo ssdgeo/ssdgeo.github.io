@@ -116,7 +116,7 @@ author:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/CryptoBazari/"
+       url: "CryptoBazari"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
